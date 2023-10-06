@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application8</string>
+    <string name="entregapp">ENTREGAPP</string>
+    <string name="todo_lo_que_necesitas_al_alcance_de_tus_manos">Todo lo que necesitas al alcance de tus manos</string>
+    <string name="registrese">Registrese</string>
+    <string name="inicie_sesi_n">Inicie sesión</string>
+    <string name="porfavor_registrese">Porfavor, registrese</string>
+    <string name="inicie_sesi_n2">Inicie sesión?</string>
+</resources>
