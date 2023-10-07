@@ -20,27 +20,27 @@
         android:id="@+id/imageView5"
         android:layout_width="84dp"
         android:layout_height="81dp"
-        android:layout_marginStart="32dp"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:backgroundTint="#F44336"
         app:layout_constraintBottom_toTopOf="@+id/editText2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.139"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/baseline_account_circle_30" />
 
     <ImageView
         android:id="@+id/imageView6"
-        android:layout_width="87dp"
-        android:layout_height="81dp"
+        android:layout_width="79dp"
+        android:layout_height="71dp"
         android:layout_marginTop="16dp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView7"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.898"
+        app:layout_constraintHorizontal_bias="0.951"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.074"
-        app:srcCompat="@drawable/baseline_circle_notifications_23" />
+        app:layout_constraintVertical_bias="0.181"
+        app:srcCompat="@drawable/baseline_shopping_cart_242" />
 
     <ImageView
         android:id="@+id/imageView7"

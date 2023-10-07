@@ -94,7 +94,7 @@
         android:background="@drawable/btn_bg_design"
         android:backgroundTint="@color/purple_500"
         android:backgroundTintMode="add"
-        android:onClick="IniciarSesion"
+        android:onClick="IniciarSesion2"
         android:padding="10dp"
         android:text="Ingrese sesión"
         android:textAllCaps="false"

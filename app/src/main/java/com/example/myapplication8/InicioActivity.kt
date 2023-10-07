@@ -11,13 +11,13 @@ class InicioActivity : AppCompatActivity() {
         setContentView(R.layout.activity_inicio)
     }
 
-    public fun Registrar(view: View) {
-        val intent = Intent(this, Register::class.java);
-        startActivity(intent);
+    public fun Registrarse1(view: View) {
+        val intent1 = Intent(this, Register::class.java);
+        startActivity(intent1);
     }
-    public fun IniciarSesion(view: View){
-        val intent = Intent(this, LoginActivity::class.java);
-        startActivity(intent)
+    public fun IniciarSesion2(view: View){
+        val intent2 = Intent(this, LoginActivity::class.java);
+        startActivity(intent2)
     }
 
 

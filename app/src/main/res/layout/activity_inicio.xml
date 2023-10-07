@@ -52,7 +52,7 @@
         android:background="@drawable/btn_bg_design"
         android:backgroundTint="@color/purple_700"
         android:backgroundTintMode="add"
-        android:onClick="Registrar"
+        android:onClick="Registrarse1"
         android:padding="20dp"
         android:text="@string/registrese"
         android:textAllCaps="false"

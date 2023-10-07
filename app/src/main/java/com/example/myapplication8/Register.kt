@@ -10,10 +10,7 @@ class Register : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
     }
-    public fun Registrar(view: View) {
-        val intent = Intent(this, Register::class.java);
-        startActivity(intent);
-    }
+
     public fun IniciarSesion(view: View){
         val intent = Intent(this, LoginActivity::class.java);
         startActivity(intent)
